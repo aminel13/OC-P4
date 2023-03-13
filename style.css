@@ -669,7 +669,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: rgba(0, 0, 0, .5) !important;
+    color: black !important;
 }
 
 .container {
